@@ -373,12 +373,6 @@
           "/Power/9Vb",
           "/Power/9Vin",
           "GND",
-          "Net-(FB1-Pad2)",
-          "Net-(FB2-Pad1)",
-          "Net-(FB3-Pad2)",
-          "Net-(FB4-Pad1)",
-          "Net-(FB5-Pad2)",
-          "Net-(FB6-Pad1)",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -399,7 +393,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "AVR Prototype.net",
-      "specctra_dsn": "",
+      "specctra_dsn": "AVR Prototype.dsn",
       "step": "",
       "vrml": ""
     },
