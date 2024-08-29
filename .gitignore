@@ -1,7 +1,16 @@
 .DS_Store
 *.csv
 *.bak
+*.bck
 *.xml
 *.numbers
 AVR Prototype-backups/
 gerbers/
+logs/
+*.ses
+*.dsn
+fp-info-cache
+*.net
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BRG_Footprints")(type "KiCad")(uri "/Users/Brian/Desktop/Data/KicadLibrary/BRG/BRG_Footprints.pretty")(options "")(descr ""))
+)
